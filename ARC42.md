@@ -27,8 +27,6 @@ Motivation
 
 Die Motivation für die Entwicklung der Software liegt darin, die Zusammenarbeit und Kommunikation zwischen den beteiligten Akteuren zu verbessern und somit zur Erreichung der Geschäftsziele beizutragen. Die Software soll eine effiziente und reibungslose Zusammenarbeit ermöglichen und somit zur Steigerung der Produktivität beitragen.
 
-Form
-
 Dokumentendruck	- Drucken von Fahrzeugdokumenten
     Berechnung von individuellen Simulationsergebnissen für jedes Fahrzeug
     Einhaltung der Rechtsgrundlagen
