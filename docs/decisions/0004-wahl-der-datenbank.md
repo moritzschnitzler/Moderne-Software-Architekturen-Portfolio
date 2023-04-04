@@ -22,7 +22,7 @@ Die Wahl der richtigen Datenbank ist entscheidend für eine effiziente und zuver
 
 ## Decision Outcome
 
-Chosen option: "relationale Datenbank (MySQL)", because Eine relationale Datenbank wie MySQL eignet sich besser für das Projekt, da die Datenstruktur gut definiert ist und die Datenbeziehungen zwischen den verschiedenen Entitäten klar und vorhersagbar sind.t best.
+Chosen option: "relationale Datenbank (MySQL)", because Eine relationale Datenbank wie MySQL eignet sich besser für das Projekt, da die Datenstruktur gut definiert ist und die Datenbeziehungen zwischen den verschiedenen Entitäten klar und vorhersagbar sind.
 
 ### Positive Consequences
 
