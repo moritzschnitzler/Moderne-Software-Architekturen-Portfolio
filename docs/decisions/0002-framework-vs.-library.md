@@ -1,6 +1,7 @@
 # Framework vs. Library
 
 * Status: proposed
+* Deciders: Linus Plewa, Moritz Schnitzler, Nicolas Braunbarth
 * Date: 2023-04-04
 
 Technical Story: Entscheidung für das Projekt zwischen der Verwendung eines Framework oder einer Library
